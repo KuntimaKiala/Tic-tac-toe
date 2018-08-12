@@ -1,8 +1,10 @@
 /*
 Author : Kuntima
-Description : A shop
+Description : Tic Tac Toe Game
 Date : 28/7/2018
-Usage : g++ -std=c++11 main.cpp TickTacToeBoard.cpp -o main
+Usage : g++ -std=c++11 main.cpp TickTacToeBoard.cpp -o run
+		./run
+
 Note : A lot can be changed, this is nothing more than a prototype that I wanted to create to train myself, my goal is to do AI TickTackToe Game
        Issues : I do not prevent the players choosing the same marks.
                 I did not make all characters available for mark, for example choosing £ will present a problem
